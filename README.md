@@ -42,4 +42,4 @@ Stock prices are manually entered by the user.
 This project does not provide live market prices.
 
 ## Author
-Your Name
+Arun kumar
